@@ -71,5 +71,5 @@ public class PredefinedStepDefinis {
     public void iWaitForSec(int sec) throws Exception {
         Thread.sleep(sec * 1000);
     }
-
+}
 
